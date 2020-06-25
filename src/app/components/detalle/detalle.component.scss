@@ -1,0 +1,30 @@
+.titulo {
+    width: 100%;
+    position: absolute;
+    color: white;
+    background-color: red;
+    padding: 5px 5px 40px 5px;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+}
+
+.titulo h1 {
+    position: absolute;
+    top: 28px;
+    left: 5px;
+}
+
+.card-actor {
+    height: 180px;
+}
+
+.actor-name {
+    position: relative;
+    top: 15px;
+}
+
+.poster-detalle-sobre {
+    position: relative;
+    top: -75px;
+    left: -10px;
+    margin-bottom: -75px;
+}
